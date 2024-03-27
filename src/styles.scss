@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Actor&display=swap');
+
+$background: #030204;
+$color-gradient: linear-gradient(to top, #FC68F6, #4E008C);
+$color-text: #F4F4F4;
+$font-main: "Actor", sans-serif;
+
+*{
+  margin: 0;
+  font-family: $font-main;
+}
